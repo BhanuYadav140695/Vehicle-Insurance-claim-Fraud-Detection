@@ -10,6 +10,6 @@ This Project predict a person which claim the insurance of vehicle is fraud or n
                            
 ## Type of Fraude Detection Techniques:
 
-                ![image](Type_of_Fraude_Detection.png)
+                ![image](Fraud-Detection-Techniques.png)
 
 
