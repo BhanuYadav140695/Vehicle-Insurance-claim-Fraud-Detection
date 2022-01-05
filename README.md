@@ -7,9 +7,9 @@ Insurence fraud detection is a challenging problem, given the variety of fraud p
 This Project predict a person which claim the insurance of vehicle is fraud or not by using machine learning technique. 
 
 ## How Fraude Detection System Work:
-https://pimages.toolbox.com/wp-content/uploads/2021/06/16094658/Fraud-Detection-Techniques.png
-
+                           
 ## Type of Fraude Detection Techniques:
 
+                ![image](https://user-images.githubusercontent.com/94745306/148237756-68facee4-b892-4ddd-b141-26fc81407038.png)
 
 
